@@ -1,2 +1,1 @@
-# yoto-contracts
-YotsubaToken and related contracts
+# YotsubaToken (YOTO) info
